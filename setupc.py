@@ -7,8 +7,7 @@ from __future__ import print_function
 import sys
 import os
 from setuptools import setup, find_packages, Command
-import wifiphisher.common.constants as constants
-
+impor os
 
 class CleanCommand(Command):
     """Custom clean command to tidy up the project root."""
