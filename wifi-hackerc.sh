@@ -1080,11 +1080,11 @@ showDisclaimer(){
 	echo ""
 	echo "By using this script, you are agreeing to the following terms:"
 	echo ""
-	echo "1) Not to be used for attacking access points that you do not have permission to test"
+	echo "1) Not to be used for attacking access points that you do not have permission to test")
 	echo ""
-	echo "2) Stay within legal limits of transmission power, depending on your country laws"
+	echo "2) Stay within legal limits of transmission power, depending on your country laws")
 	echo ""
-	echo "3) Stay within legal limits of channel usage, depending on your country laws"
+	echo "3) Stay within legal limits of channel usage, depending on your country laws")
 	echo ""
 	$green
 	echo "**********************************************************"
