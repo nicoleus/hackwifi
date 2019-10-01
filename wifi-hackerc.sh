@@ -1066,15 +1066,6 @@ showDisclaimer(){
 	echo "IKUTN DENGAN BIJAK DAN DENGAN SABAR YA LAE KU"
         echo "HORAS HITA SUDE!!"
 	echo "****************************************************************************************************"
-
-
-
-def runntxt(noob):
-    for lol in noob + '\n':
-        sys.stdout.write(lol)
-        sys.stdout.flush()
-        time.sleep(10. / 600)
- def banner():
     os.system("clear")
     os.system("toilet -f standard 'Trmx Style OIK' -F gay")
 #    print m+"+--------------------------------------+"
