@@ -1,26 +1,28 @@
 #!/bin/bash
-clear
-toilet -f bigmono9 -F gay Nicoleus Sitorus
-sleep 1
-echo "\033[38;1m ------------------------------------------------------------------"|lolcat
-echo "\033[31;1m #DARK FORCE ARMY"
-echo "\033[36;1m author by :"Nicoleus F Sitorus
-echo "\033[36;1m ™<<Mr_WRECK>>™ "
-echo "\033[32;1m Sebelum memilih spam,terlebih dahulu install bahan ya Lae(03)"
-echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 
-date|lolcat
+clear
+
+toilet -f slant --gay "Hack Wifi Cuk.."
+sleep 1
+echo "\033[33;1m Hacker By: NICOLEUS F SITORUS"
+
+sleep 1
+echo "\033[33;1m  HORAS Macam-macam tool untuk spam Ada Disini Lae Ku.."
+sleep 1
+echo "\033[36;1m★""\033[34;1mHORAS BATAK CYBER TEAM""\033[36;1m★"
+sleep 1
+
+
 
 ############################################################################
 #   CREDITS BEGIN   ########################################################
 ############################################################################
 
 
-# By: Nicoleus Sitorus
-# WiFi Hacker MR.WRECK
-# esc0rtd3w 01 OKTOBER 2019
+# WiFi Hacker v2.0
+# esc0rtd3w 2019
 
-# https://github.com/nicoleus/wifi-hackerc/
+# https://github.com/esc0rtd3w/wifi-hacker/
 
 # Uses parts of the aircrack-ng suite, reaver, wifite, and many other tools
 
@@ -1060,12 +1062,11 @@ showDisclaimer(){
 	$cyan
 	echo ""
 	echo "****************************************************************************************************"
-        echo "ANONYMOUS HALAK BATAK!!"
-	echo "HORAS!!! DISINI SAYA AKAN MENGHACK WIFI"
-	echo "IKUTIN TUTORNYA PASTI KAMU AKAN SENANG"
-	echo "IKUTN DENGAN BIJAK DAN DENGAN SABAR YA LAE KU"
-        echo "HORAS HITA SUDE!!"
-	echo "****************************************************************************************************
+	echo "HORAS HITA SUDE!!"
+	echo "ANONYMOUS BATAK SAATNYA BERAKSI"
+	echo "IKUTIN TUTORNYA YA LE,DENGAN BENAR"
+	echo "****************************************************************************************************"
+	echo ""
 	$green
 	echo "**********************************************************"
 	echo "YOU MUST AGREE TO THESE TERMS BEFORE USING THIS SOFTWARE!"
@@ -1135,10 +1136,10 @@ isUnreleased(){
 	$cyan
 	echo ""
 	echo "****************************************************************************************************"
-	echo "ANONYMOUS HALAK BATAK!!"
-	echo "HORAS!!! DISINI SAYA AKAN MENGHACK WIFI"
-	echo "IKUTIN TUTORNYA PASTI KAMU AKAN SENANG"
-        echo "HORAS HITA SUDE!!"
+	echo "BY: NICOLEUS F SITORUS"
+	echo "Team: Batak Cyber Team"
+	echo "Youtube: adysitorusady"
+        echo " Facebook: Nicoleus Sitor"
 	echo "****************************************************************************************************"
 	echo ""
 	$green
@@ -1221,9 +1222,6 @@ banner(){
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
 	echo "|  [M] Main Menu    |    * WiFi Hacker v$versionBase  /  Nicoleus Sitorus 2019  /  github.com/nicoleus *    | [X] Exit           |"
-        echo " ############################################################################ "
-        echo " #   Nicoleus Sitorus   ############################################### "
-        echo "  ############################################################################ "
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"
@@ -1244,7 +1242,7 @@ bannerNoMenu(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ CTRL+C ] Main  |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/nicoleus *    | [CTRL+C x2 ] Exit  |"
+	echo "|  [ CTRL+C ] Main  |    * WiFi Hacker v$versionBase  /  Nicoleus Sitorus 2019  /  github.com/nicoleus *    | [CTRL+C x2 ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"
@@ -7075,11 +7073,9 @@ initMain
 
 
 
-
 ############################################################################
 #   HORAS HITA SUDE!!   ###################################################
 ############################################################################
-
 
 
 
