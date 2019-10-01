@@ -1069,7 +1069,7 @@ showDisclaimer(){
 
 clear
 
-toilet -f slant --gay "LiteSpam Cuk.."
+toilet -f slant --gay "Hack Wifi Cuuuk.."
 sleep 1
 echo "\033[33;1m Hacker By: NICOLEUS F SITORUS"
 
