@@ -1060,9 +1060,11 @@ showDisclaimer(){
 	$cyan
 	echo ""
 	echo "****************************************************************************************************"
-	echo "THIS WILL TERMINATE ANY ACTIVE INTERNET CONNECTION! IF YOU HAVE ISSUES CONNECTING TO THE INTERNET"
-	echo "AFTER AN ATTACK HAS BEEN PERFORMED, USE THE EXTRAS OPTION IN TOOLBAR TO START AND STOP SERVICES."
-	echo "IF THIS DOES NOT WORK, THEN YOU CAN RESTART THIS SCRIPT, OR REBOOT THE MACHINE AND RETURN TO NORMAL."
+        echo "ANONYMOUS HALAK BATAK!!"
+	echo "HORAS!!! DISINI SAYA AKAN MENGHACK WIFI"
+	echo "IKUTIN TUTORNYA PASTI KAMU AKAN SENANG"
+	echo "IKUTN DENGAN BIJAK DAN DENGAN SABAR YA LAE KU"
+        echo "HORAS HITA SUDE!!"
 	echo "****************************************************************************************************"
 	echo ""
 	$green
@@ -1134,9 +1136,10 @@ isUnreleased(){
 	$cyan
 	echo ""
 	echo "****************************************************************************************************"
-	echo "THIS WILL TERMINATE ANY ACTIVE INTERNET CONNECTION! IF YOU HAVE ISSUES CONNECTING TO THE INTERNET"
-	echo "AFTER AN ATTACK HAS BEEN PERFORMED, USE THE EXTRAS OPTION IN TOOLBAR TO START AND STOP SERVICES."
-	echo "IF THIS DOES NOT WORK, THEN YOU CAN RESTART THIS SCRIPT, OR REBOOT THE MACHINE AND RETURN TO NORMAL."
+	echo "ANONYMOUS HALAK BATAK!!"
+	echo "HORAS!!! DISINI SAYA AKAN MENGHACK WIFI"
+	echo "IKUTIN TUTORNYA PASTI KAMU AKAN SENANG"
+        echo "HORAS HITA SUDE!!"
 	echo "****************************************************************************************************"
 	echo ""
 	$green
@@ -1218,7 +1221,10 @@ banner(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [M] Main Menu    |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [X] Exit           |"
+	echo "|  [M] Main Menu    |    * WiFi Hacker v$versionBase  /  Nicoleus Sitorus 2019  /  github.com/nicoleus *    | [X] Exit           |"
+        echo " ############################################################################ "
+        echo " #   Nicoleus Sitorus   ############################################### "
+        echo "  ############################################################################ "
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"
@@ -1239,7 +1245,7 @@ bannerNoMenu(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ CTRL+C ] Main  |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C x2 ] Exit  |"
+	echo "|  [ CTRL+C ] Main  |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/nicoleus *    | [CTRL+C x2 ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"
@@ -1260,7 +1266,7 @@ bannerMain(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C    ] Exit  |"
+	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  Nicoleus Sitorus 2019  /  github.com/nicoleus *    | [CTRL+C    ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	echo "-------------------------------------------------------------------------------------------------------------------"
 	$yellow
@@ -1280,7 +1286,7 @@ bannerMenu(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C    ] Exit  |"
+	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  Nicoleus Sitorus 2019  /  github.com/nicoleus *    | [CTRL+C    ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"
@@ -1300,7 +1306,7 @@ bannerSlim(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C    ] Exit  |"
+	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  Nicoleus Sitorus 2019  /  github.com/nicoleus *    | [CTRL+C    ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$white
 
@@ -7066,6 +7072,15 @@ initMain
 ############################################################################
 #   INITIAL LAUNCH END   ###################################################
 ############################################################################
+
+
+
+
+
+############################################################################
+#   HORAS HITA SUDE!!   ###################################################
+############################################################################
+
 
 
 
