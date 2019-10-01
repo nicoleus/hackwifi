@@ -1066,22 +1066,22 @@ showDisclaimer(){
 	echo "IKUTN DENGAN BIJAK DAN DENGAN SABAR YA LAE KU"
         echo "HORAS HITA SUDE!!"
 	echo "****************************************************************************************************"
-    os.system("clear")
-    os.system("toilet -f standard 'Trmx Style OIK' -F gay")
+   
+        echo ("toilet -f standard 'Trmx Style OIK' -F gay")
 #    print m+"+--------------------------------------+"
-    os.system("echo '| II    II  //////////  II//////////   IIIIIIIIIIII  ///////////// ' | lolcat")
-    os.system("echo '| II    II  II      II  II      III    II        II    //          ' | lolcat")
-    os.system("echo '| II    II  II      II  II       //    II        II     ///        ' | lolcat")    
-    os.system("echo '| II    II  II      II  II    IIIII    II        II       ////     ' | lolcat") 
-    os.system("echo '| IIIIIIII  II      II  II  IIIIIII    II        II        //      ' | lolcat")
-    os.system("echo '| II    II  II      II  II  ///////    II++++++++II        ////////// ' | lolcat")     
-    os.system("echo '| II    II  II      II  II   //        II        II              /// ' | lolcat") 
-    os.system("echo '| II    II  II      II  II   ///       II        II              /// ' | lolcat")
-    os.system("echo '| II    II  //IIIIII//  II     /////// II        II   ////////////// ' | lolcat")
-    os.system("echo '|  BY: NICOLEUS F SITORUS' | lolcat")
-    os.system("echo '|  Team: Batak Cyber Team' | lolcat")
-    os.system("echo '|  Youtube: adysitorusady' | lolcat")
-    os.system("echo '|  Facebook: Nicoleus Sitorus' | lolcat")
+    ("echo '| II    II  //////////  II//////////   IIIIIIIIIIII  ///////////// ' | lolcat")
+    ("echo '| II    II  II      II  II      III    II        II    //          ' | lolcat")
+    ("echo '| II    II  II      II  II       //    II        II     ///        ' | lolcat")    
+    ("echo '| II    II  II      II  II    IIIII    II        II       ////     ' | lolcat") 
+    ("echo '| IIIIIIII  II      II  II  IIIIIII    II        II        //      ' | lolcat")
+    ("echo '| II    II  II      II  II  ///////    II++++++++II        ////////// ' | lolcat")     
+    ("echo '| II    II  II      II  II   //        II        II              /// ' | lolcat") 
+    ("echo '| II    II  II      II  II   ///       II        II              /// ' | lolcat")
+    ("echo '| II    II  //IIIIII//  II     /////// II        II   ////////////// ' | lolcat")
+    ("echo '|  BY: NICOLEUS F SITORUS' | lolcat")
+    ("echo '|  Team: Batak Cyber Team' | lolcat")
+    ("echo '|  Youtube: adysitorusady' | lolcat")
+    ("echo '|  Facebook: Nicoleus Sitorus' | lolcat")
 	echo ""
 	$green
 	echo "**********************************************************"
