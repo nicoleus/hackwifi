@@ -1066,7 +1066,6 @@ showDisclaimer(){
 	echo "IKUTN DENGAN BIJAK DAN DENGAN SABAR YA LAE KU"
         echo "HORAS HITA SUDE!!"
 	echo "****************************************************************************************************"
-        echo ("toilet -f standard 'Trmx Style OIK' -F gay")
 #    print m+"+--------------------------------------+"
     ("echo '| II    II  //////////  II//////////   IIIIIIIIIIII  ///////////// ' | lolcat")
     ("echo '| II    II  II      II  II      III    II        II    //          ' | lolcat")
