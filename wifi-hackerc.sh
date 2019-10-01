@@ -1068,19 +1068,19 @@ showDisclaimer(){
 	echo "****************************************************************************************************"
        $white
 #    print m+"+--------------------------------------+"
-        echo '|" II    II  //////////  II//////////   IIIIIIIIIIII  ///////////// ' | lolcat")
-        echo '|" II    II  II      II  II      III    II        II    //          ' | lolcat")
-        echo '|" II    II  II      II  II       //    II        II     ///        ' | lolcat")    
-        echo '|" II    II  II      II  II    IIIII    II        II       ////     ' | lolcat") 
-        echo '|" IIIIIIII  II      II  II  IIIIIII    II        II        //      ' | lolcat")
-        echo '|" II    II  II      II  II  ///////    II++++++++II        ////////// ' | lolcat")     
-        echo '|" II    II  II      II  II   //        II        II              /// ' | lolcat") 
-        echo '|" II    II  II      II  II   ///       II        II              /// ' | lolcat")
-        echo '|" II    II  //IIIIII//  II     /////// II        II   ////////////// ' | lolcat")
-        echo '|"  BY: NICOLEUS F SITORUS' | lolcat")
-        echo '|"  Team: Batak Cyber Team' | lolcat")
-        echo '|"  Youtube: adysitorusady' | lolcat")
-        echo '|"  Facebook: Nicoleus Sitorus' | lolcat")
+        echo '|" II    II  //////////  II//////////   IIIIIIIIIIII  ///////////// ' | lolcat"
+        echo '|" II    II  II      II  II      III    II        II    //          ' | lolcat"
+        echo '|" II    II  II      II  II       //    II        II     ///        ' | lolcat" 
+        echo '|" II    II  II      II  II    IIIII    II        II       ////     ' | lolcat"
+        echo '|" IIIIIIII  II      II  II  IIIIIII    II        II        //      ' | lolcat"
+        echo '|" II    II  II      II  II  ///////    II++++++++II        ////////// ' | lolcat"    
+        echo '|" II    II  II      II  II   //        II        II              /// ' | lolcat"
+        echo '|" II    II  II      II  II   ///       II        II              /// ' | lolcat"
+        echo '|" II    II  //IIIIII//  II     /////// II        II   ////////////// ' | lolcat"
+        echo '|"  BY: NICOLEUS F SITORUS' | lolcat"
+        echo '|"  Team: Batak Cyber Team' | lolcat"
+        echo '|"  Youtube: adysitorusady' | lolcat"
+        echo '|"  Facebook: Nicoleus Sitorus' | lolcat"
 	echo ""
 	$green
 	echo "**********************************************************"
@@ -1355,13 +1355,13 @@ bannerExit(){
 	$blue
 	echo "Thank You For Playing Fair ;)"
 	echo ""
-	echo "esc0rtd3w 2019"
+	echo "Nicoleus Sitorus 2019"
 	echo ""
 	echo ""
 	$cyan
 	echo "View My Other Projects On GitHub:"
 	echo ""
-	echo "https://github.com/esc0rtd3w"
+	echo "https://github.com/nicoleus"
 	echo ""
 	echo ""
 
@@ -1392,13 +1392,13 @@ bannerExitUpdate(){
 	$blue
 	echo "Thank You For Playing Fair ;)"
 	echo ""
-	echo "esc0rtd3w 2019"
+	echo "Nicoleus Sitorus 2019"
 	echo ""
 	echo ""
 	$cyan
 	echo "View My Other Projects On GitHub:"
 	echo ""
-	echo "https://github.com/esc0rtd3w"
+	echo "https://github.com/nicoleus"
 	echo ""
 	echo ""
 
