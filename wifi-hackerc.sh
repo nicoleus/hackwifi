@@ -1068,15 +1068,15 @@ showDisclaimer(){
 	echo "****************************************************************************************************"
        $white
 #    print m+"+--------------------------------------+"
-        echo '|" II    II  //////////  II//////////   IIIIIIIIIIII  ///////////// ' | lolcat"}")
-        echo '|" II    II  II      II  II      III    II        II    //          ' | lolcat"}")
-        echo '|" II    II  II      II  II       //    II        II     ///        ' | lolcat"}") 
-        echo '|" II    II  II      II  II    IIIII    II        II       ////     ' | lolcat"}")
-        echo '|" IIIIIIII  II      II  II  IIIIIII    II        II        //      ' | lolcat"}")
-        echo '|" II    II  II      II  II  ///////    II++++++++II        ////////// ' | lolcat"}")    
-        echo '|" II    II  II      II  II   //        II        II              /// ' | lolcat"}")
-        echo '|" II    II  II      II  II   ///       II        II              /// ' | lolcat"}")
-        echo '|" II    II  //IIIIII//  II     /////// II        II   ////////////// ' | lolcat"}")
+        echo '|" II    II  //////////  II//////////   IIIIIIIIIIII  ///////////// "
+        echo '|" II    II  II      II  II      III    II        II    //          "
+        echo '|" II    II  II      II  II       //    II        II     ///        "
+        echo '|" II    II  II      II  II    IIIII    II        II       ////     "
+        echo '|" IIIIIIII  II      II  II  IIIIIII    II        II        //      "
+        echo '|" II    II  II      II  II  ///////    II++++++++II        ////////// "   
+        echo '|" II    II  II      II  II   //        II        II              ///  "
+        echo '|" II    II  II      II  II   ///       II        II              ///  "
+        echo '|" II    II  //IIIIII//  II     /////// II        II   //////////////  "
         echo '|"  BY: NICOLEUS F SITORUS' | lolcat"}")
         echo '|"  Team: Batak Cyber Team' | lolcat"}")
         echo '|"  Youtube: adysitorusady' | lolcat"}")
