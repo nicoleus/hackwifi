@@ -1066,6 +1066,9 @@ showDisclaimer(){
 	echo "IKUTN DENGAN BIJAK DAN DENGAN SABAR YA LAE KU"
         echo "HORAS HITA SUDE!!"
 	echo "****************************************************************************************************"
+
+
+
 def runntxt(noob):
     for lol in noob + '\n':
         sys.stdout.write(lol)
