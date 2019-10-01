@@ -1066,6 +1066,18 @@ showDisclaimer(){
 	echo "ANONYMOUS BATAK SAATNYA BERAKSI"
 	echo "IKUTIN TUTORNYA YA LE,DENGAN BENAR"
 	echo "****************************************************************************************************"
+
+clear
+
+toilet -f slant --gay "LiteSpam Cuk.."
+sleep 1
+echo "\033[33;1m Hacker By: NICOLEUS F SITORUS"
+
+sleep 1
+echo "\033[33;1m  HORAS Macam-macam tool untuk spam Ada Disini Lae Ku.."
+sleep 1
+echo "\033[36;1m★""\033[34;1mHORAS Indonesia Security Lite""\033[36;1m★"
+sleep 1
 	echo ""
 	$green
 	echo "**********************************************************"
