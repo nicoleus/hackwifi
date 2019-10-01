@@ -1068,10 +1068,10 @@ showDisclaimer(){
 	echo "****************************************************************************************************"
        $white
 #    print m+"+--------------------------------------+"
-        echo '|"  BY: NICOLEUS F SITORUS' | lolcat"}")
-        echo '|"  Team: Batak Cyber Team' | lolcat"}")
-        echo '|"  Youtube: adysitorusady' | lolcat"}")
-        echo '|"  Facebook: Nicoleus Sitorus' | lolcat"}")
+        "{"("echo '|"  BY: NICOLEUS F SITORUS' | lolcat"}")
+        "{"("echo '|"  Team: Batak Cyber Team' | lolcat"}")
+        "{"("echo '|"  Youtube: adysitorusady' | lolcat"}")
+        "{"("echo '|"  Facebook: Nicoleus Sitorus' | lolcat"}")
 	echo ""
 	$green
 	echo "**********************************************************"
