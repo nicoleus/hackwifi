@@ -1065,15 +1065,14 @@ showDisclaimer(){
 	echo "IKUTIN TUTORNYA PASTI KAMU AKAN SENANG"
 	echo "IKUTN DENGAN BIJAK DAN DENGAN SABAR YA LAE KU"
         echo "HORAS HITA SUDE!!"
-	echo "****************************************************************************************************"
-       $white
-#    print m+"+--------------------------------------+"
-        "{"("echo '|"  BY: NICOLEUS F SITORUS' | lolcat"}")
-        "{"("echo '|"  Team: Batak Cyber Team' | lolcat"}")
-        "{"("echo '|"  Youtube: adysitorusady' | lolcat"}")
-        "{"("echo '|"  Facebook: Nicoleus Sitorus' | lolcat"}")
-	echo ""
+	echo "****************************************************************************************************
 	$green
+        echo "**********************************************************"
+	echo "BY: NICOLEUS F SITORUS"
+        echo "Team: Batak Cyber Team"
+        echo "Youtube: adysitorusady"
+        echo " Facebook: Nicoleus Sitorus"
+	echo "**********************************************************"
 	echo "**********************************************************"
 	echo "YOU MUST AGREE TO THESE TERMS BEFORE USING THIS SOFTWARE!"
 	echo "**********************************************************"
